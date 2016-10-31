@@ -4,9 +4,6 @@
 
 How did The Times come to that conclusion? Using the [Jupyter Notebook](https://github.com/datadesk/california-ccscore-analysis/blob/master/analysis.ipynb) in this repository.
 
-![A1](./A1.jpg)
-![A10](./A10.jpg)
-
 ### Running the analysis
 
 Create a virtual environment.
@@ -40,3 +37,8 @@ Start up Jupyter Notebook and run the code yourself from your browser.
 ```
 $ jupyter notebook
 ```
+
+### The print edition
+
+![A1](./A1.jpg)
+![A10](./A10.jpg)
