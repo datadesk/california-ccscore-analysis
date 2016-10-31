@@ -4,6 +4,9 @@ A Los Angeles Times analysis published on Oct. 31, 2016, found that the overwhel
 
 How did The Times come to that conclusion? Using the [Jupyter Notebook](https://github.com/datadesk/california-ccscore-analysis/blob/master/analysis.ipynb) in this repository.
 
+![A1](./A1.jpg)
+![A10](./A10.jpg)
+
 ### Running the analysis
 
 Create a virtual environment.
