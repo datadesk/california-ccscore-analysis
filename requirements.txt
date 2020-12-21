@@ -25,7 +25,7 @@ matplotlib==1.5.3
 mistune==0.7.3
 nbconvert==4.2.0
 nbformat==4.1.0
-notebook==4.2.3
+notebook==6.1.5
 numpy==1.11.2
 openpyxl==2.4.0
 pandas==0.19.0
